@@ -11,3 +11,4 @@ The application is built using JavaScript, HTML, and CSS, making it easily acces
 - Users can change the size of the canvas by selecting a size from the size picker.
 - Users can clear the canvas by clicking the Clear button once they are done with their Picasso like artwork.
   
+![Screenshot 2022-09-28 143549](https://github.com/ArjunHanda/DigiDoodle/assets/91323885/cccd28df-d8f9-4877-bc49-40dfd4e08f40)
